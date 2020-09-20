@@ -1,0 +1,13 @@
+test_error,train_cv_error,model,parameters,data_set
+0.5551657603929135,0.5508241402124034,KNeighborsClassifier,"{""n_neighbors"": 15, ""weights"": ""distance""}",database_25
+0.5621085594989561,0.5566333188342758,KNeighborsClassifier,"{""n_neighbors"": 15, ""weights"": ""distance""}",database_30
+0.4872626215840667,0.5206716850028952,KNeighborsClassifier,"{""n_neighbors"": 10, ""weights"": ""distance""}",database_1
+0.5268252212389379,0.5281383881252931,KNeighborsClassifier,"{""n_neighbors"": 15, ""weights"": ""uniform""}",database_5
+0.5318831307314993,0.5291675037767706,KNeighborsClassifier,"{""n_neighbors"": 15, ""weights"": ""distance""}",database_10
+0.5270793036750484,0.5269622555015798,KNeighborsClassifier,"{""n_neighbors"": 15, ""weights"": ""uniform""}",database_15
+0.5258041710851891,0.5408350427120896,KNeighborsClassifier,"{""n_neighbors"": 15, ""weights"": ""uniform""}",database_20
+0.4872626215840667,0.5206716850028952,KNeighborsClassifier,"{""n_neighbors"": 10, ""weights"": ""distance""}",database_1
+0.5268252212389379,0.5281383881252931,KNeighborsClassifier,"{""n_neighbors"": 15, ""weights"": ""uniform""}",database_5
+0.5318831307314993,0.5291675037767706,KNeighborsClassifier,"{""n_neighbors"": 15, ""weights"": ""distance""}",database_10
+0.5270793036750484,0.5269622555015798,KNeighborsClassifier,"{""n_neighbors"": 15, ""weights"": ""uniform""}",database_15
+0.5258041710851891,0.5408350427120896,KNeighborsClassifier,"{""n_neighbors"": 15, ""weights"": ""uniform""}",database_20

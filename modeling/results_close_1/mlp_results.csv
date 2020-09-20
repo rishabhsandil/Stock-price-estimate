@@ -1,0 +1,8 @@
+test_error,train_cv_error,model,parameters,data_set
+0.6033402922755741,0.6138321009134406,MLPClassifier,"{""activation"": ""relu"", ""alpha"": 1e-05, ""hidden_layer_sizes"": [27, 54], ""solver"": ""adam""}",database_30
+0.554886521537749,0.5565720903300522,MLPClassifier,"{""activation"": ""logistic"", ""alpha"": 0.1, ""hidden_layer_sizes"": [27, 54, 82], ""solver"": ""adam""}",database_1
+0.5589048672566371,0.5674095529869161,MLPClassifier,"{""activation"": ""relu"", ""alpha"": 0.001, ""hidden_layer_sizes"": [52], ""solver"": ""adam""}",database_5
+0.5962891874600128,0.5747577072780592,MLPClassifier,"{""activation"": ""relu"", ""alpha"": 0.0001, ""hidden_layer_sizes"": [34, 67], ""solver"": ""adam""}",database_10
+0.5845261121856866,0.5849010078141262,MLPClassifier,"{""activation"": ""relu"", ""alpha"": 0.001, ""hidden_layer_sizes"": [32, 64], ""solver"": ""adam""}",database_15
+0.6049840933191941,0.5972252254011812,MLPClassifier,"{""activation"": ""relu"", ""alpha"": 1e-05, ""hidden_layer_sizes"": [30, 61], ""solver"": ""adam""}",database_20
+0.5974390457814418,0.6000261657762034,MLPClassifier,"{""activation"": ""relu"", ""alpha"": 0.01, ""hidden_layer_sizes"": [29, 57], ""solver"": ""adam""}",database_25

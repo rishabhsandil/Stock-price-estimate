@@ -1,0 +1,8 @@
+test_error,train_cv_error,model,parameters,data_set
+0.566391861077004,0.5324075302815249,GaussianNB,"{""var_smoothing"": 0.1}",database_25
+0.5614126652748782,0.5553719008264463,GaussianNB,"{""var_smoothing"": 0.1}",database_30
+0.554886521537749,0.5338737695425594,GaussianNB,"{""var_smoothing"": 0.1}",database_1
+0.5517146017699115,0.5344318498555438,GaussianNB,"{""var_smoothing"": 0.1}",database_5
+0.5617402431222009,0.5341272762818804,GaussianNB,"{""var_smoothing"": 0.1}",database_10
+0.5586073500967118,0.5564636810358337,GaussianNB,"{""var_smoothing"": 0.1}",database_15
+0.5477200424178155,0.5586441700866448,GaussianNB,"{""var_smoothing"": 0.1}",database_20

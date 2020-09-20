@@ -1,0 +1,8 @@
+test_error,train_cv_error,model,parameters,data_set
+0.6744430801613752,0.6680842632232851,RandomForestClassifier,"{""criterion"": ""entropy"", ""min_samples_split"": 0.0001, ""n_estimators"": 1000}",database_25
+0.6847599164926931,0.6705089169204002,RandomForestClassifier,"{""criterion"": ""entropy"", ""min_samples_split"": 0.0001, ""n_estimators"": 1000}",database_30
+0.6220472440944882,0.6306890561667631,RandomForestClassifier,"{""criterion"": ""entropy"", ""min_samples_split"": 0.0001, ""n_estimators"": 1000}",database_1
+0.6482300884955752,0.6444973296061127,RandomForestClassifier,"{""criterion"": ""entropy"", ""min_samples_split"": 0.0001, ""n_estimators"": 1000}",database_5
+0.6662401364896566,0.6502614129565449,RandomForestClassifier,"{""criterion"": ""entropy"", ""min_samples_split"": 0.0001, ""n_estimators"": 1000}",database_10
+0.6595744680851063,0.6566228286622431,RandomForestClassifier,"{""criterion"": ""gini"", ""min_samples_split"": 0.0001, ""n_estimators"": 1000}",database_15
+0.6671968893601979,0.6656352907571478,RandomForestClassifier,"{""criterion"": ""entropy"", ""min_samples_split"": 0.0001, ""n_estimators"": 1000}",database_20
