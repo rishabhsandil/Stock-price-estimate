@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+xgboost
+lightgbm
+yfinance
+shap
+matplotlib
+tqdm
+joblib
